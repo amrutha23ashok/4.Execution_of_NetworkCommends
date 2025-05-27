@@ -55,4 +55,4 @@ This commands includes
 ![alt text](get.png)
 
 ## RESULT:
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands Performed
